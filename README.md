@@ -30,6 +30,5 @@ Responsive design, ensuring a seamless experience across various devices</h6><br
   <li>PUT /update-blog/:id: Update an existing blog post by ID.</li>
   <li>DELETE /delete-blog/:id: Delete a blog post by ID.</li>
 </ol>
-  
-   <li><h4> Deployed Link ----> </h4> <a href="https://blogmanagement-hwzj.onrender.com"/> Blog Management </a> </li>
+
 </ul>
