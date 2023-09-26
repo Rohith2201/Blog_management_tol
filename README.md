@@ -1,5 +1,5 @@
 # BlogManagement
-
+This was alpha version of my project
 <h4>Blog Management MERN (MongoDB, Express, React, Node.js) This project allows users to CRUD operations(create, read, update, and delete) blog posts.</h4>
 <h6> <b>Features </b></h6>
 <h6>
